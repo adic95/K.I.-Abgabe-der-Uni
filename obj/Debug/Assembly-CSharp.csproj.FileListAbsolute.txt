@@ -1,0 +1,2 @@
+D:\TWD\TWD\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\TWD\TWD\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

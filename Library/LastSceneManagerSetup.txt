@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Adi/Desktop/NetworkProjekt/Assets/Scenes/default scene.unity
+  isLoaded: 1
+  isActive: 1
